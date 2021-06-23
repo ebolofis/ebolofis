@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ebolofis
+- I am proficient in .Net , .Net core, Javascript , HTML5 , CSS3 and SQL
 - 👀 I’m interested in .Net Core , Angular , React , Docker , Kubernets, SQL, Redis and MongoDB
 - 🌱 I’m currently learning Angular 
 - 💞️ I’m looking to collaborate on the above stack
