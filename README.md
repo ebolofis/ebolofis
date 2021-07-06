@@ -3,7 +3,7 @@
 - 👀 I’m interested in .Net Core , Angular , React , Docker , Kubernets, SQL, Redis and MongoDB
 - 🌱 I’m currently learning Angular 
 - 💞️ I’m looking to collaborate on the above stack
-- 📫 How to reach me +41767713332 or through vaggelisbolofis@gmail.com
+- 📫 How to reach me +41767713335 or through vaggelisbolofis@gmail.com
 - Bsc in Computer Scinece 
 - currently living and working in Switzerland
 - German speaker
