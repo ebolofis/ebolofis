@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on the above stack
 - 📫 How to reach me +41767713335 or through vaggelisbolofis@gmail.com
 - Bsc in Computer Science 
+- MBA candidate
 - currently living and working in Switzerland
 - German speaker
 - Lifelong learning growth mindset person
