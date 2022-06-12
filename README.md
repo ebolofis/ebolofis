@@ -1,15 +1,4 @@
-- 👋 Hi, I’m @ebolofis
-- I am proficient in .Net , .Net core, Javascript , HTML5 , CSS3 and SQL
-- 👀 I’m interested in .Net Core , Angular , React , Vue, Docker , Kubernetes, SQL, Redis and MongoDB
-- 🌱 I’m currently learning Angular 
-- 💞️ I’m looking to collaborate on the above stack
-- 📫 How to reach me +41767713335 or through vaggelisbolofis@gmail.com
-- Bsc in Computer Science 
-- MBA candidate
-- currently living and working in Switzerland
-- German speaker
-- Lifelong learning growth mindset person
-- http://ebolofis.com here is my website 
+
 
 
 <!---
