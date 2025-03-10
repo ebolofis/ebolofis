@@ -1,7 +1,1 @@
-
-
-
-<!---
-ebolofis/ebolofis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an experienced Developer with over 10 years of expertise in IT, specializing in implementing new features, external application integrations, and enhancing GenAI applications. I possess excellent problem-solving and analytical skills and am proficient in .Net Core, C#, Python, JavaScript, Data Science, Prompt Engineering, and Machine Learning. I have a strong background in driving the integration of new features and third-party systems using Agile methodologies (CAC1 certified). My expertise includes Generative AI (GenAI) Mastery, AI Strategy Implementation, Advanced Machine Learning, Natural Language Processing (NLP), AI Ethics and Governance. Additionally, I am skilled in Azure, AWS, and databases.
